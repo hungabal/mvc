@@ -1,0 +1,30 @@
+<?php
+include TEMPLATEFOLDER . 'header.inc.phtml';
+?>
+<body>
+<a href="<?= BASE_URL ?>/IndexLink">Főoldal</a>
+<h1><?= $title ?></h1>
+<table>
+    <thead>
+    <tr>
+        <th>ID</th>
+        <th>NÉV</th>
+    </tr>
+    </thead>
+    <tbody>
+    <?php
+    foreach ($users as $user) {
+    ?>
+    <tr>
+        <td><?= $user['id'] ?></td>
+        <td><?= $user['name'] ?></td>
+    </tr>
+    <?php
+    }
+    ?>
+    </tbody>
+</table>
+</body>
+<?php
+include TEMPLATEFOLDER . 'footer.inc.phtml';
+?>

@@ -1,0 +1,10 @@
+#Engedélyezem a rewrite engine modult.
+RewriteEngine On
+#ha nemlétező a file
+RewriteCond %{REQUEST_FILENAME} !-f
+#ha nemlétező a könyvtár
+RewriteCond %{REQUEST_FILENAME} !-d
+#akkor legyen átirányítás és mindent átlökünk az index.php feldolgozó fájlon
+RewriteRule ^(.*)$ index.php?load=$1 [PT,L]
+#ne listázzon ha nincs index.php
+Options -Indexes

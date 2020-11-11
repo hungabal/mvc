@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0a6c7f22-2ce5-4659-9636-2649fe9ab278" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpTemplates">
+    <option name="NEW_PHP_FILE_LAST_EXTENSION" value="phtml" />
+  </component>
+  <component name="ProjectId" id="1k5nh9acsdYFXI39K9gIOty5GH9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\dashboard\rabit_test_feladat\View\advertismentlist" />
+      <recent name="C:\xampp\htdocs\dashboard\rabit_test_feladat\View\indexlink" />
+      <recent name="C:\xampp\htdocs\dashboard\rabit_test_feladat\View\user" />
+      <recent name="C:\xampp\htdocs\dashboard\rabit_test_feladat\Utilities" />
+      <recent name="C:\xampp\htdocs\dashboard\rabit_test_feladat" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0a6c7f22-2ce5-4659-9636-2649fe9ab278" name="Default Changelist" comment="" />
+      <created>1604999438555</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604999438555</updated>
+      <workItem from="1604999439727" duration="13951000" />
+      <workItem from="1605013785125" duration="2352000" />
+      <workItem from="1605016296320" duration="3197000" />
+      <workItem from="1605030320890" duration="3407000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="993" y="138" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1605008244197">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="993" y="138" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.2560.1040@0.0.2560.1040" timestamp="1605008244197" />
+    <state x="1157" y="247" key="NewPhpClassDialog" timestamp="1605007201799">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="1157" y="247" key="NewPhpClassDialog/0.0.2560.1040@0.0.2560.1040" timestamp="1605007201799" />
+    <state x="1114" y="443" key="NewPhpFileDialog" timestamp="1605001692376">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="1114" y="443" key="NewPhpFileDialog/0.0.2560.1040@0.0.2560.1040" timestamp="1605001692376" />
+    <state x="987" y="253" width="585" height="534" key="find.popup" timestamp="1605015611570">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="987" y="253" width="585" height="534" key="find.popup/0.0.2560.1040@0.0.2560.1040" timestamp="1605015611570" />
+  </component>
+</project>

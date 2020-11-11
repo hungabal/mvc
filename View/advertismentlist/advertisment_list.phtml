@@ -1,0 +1,32 @@
+<?php
+include TEMPLATEFOLDER . 'header.inc.phtml';
+?>
+<body>
+<a href="<?= BASE_URL ?>/IndexLink">Főoldal</a>
+<h1><?= $title ?></h1>
+<table>
+    <thead>
+    <tr>
+        <th>ID</th>
+        <th>NÉV</th>
+        <th>Cím</th>
+    </tr>
+    </thead>
+    <tbody>
+    <?php
+    foreach ($advertisment as $ad) {
+        ?>
+        <tr>
+            <td><?= $ad['id'] ?></td>
+            <td><?= $ad['name'] ?></td>
+            <td><?= $ad['title'] ?></td>
+        </tr>
+        <?php
+    }
+    ?>
+    </tbody>
+</table>
+</body>
+<?php
+include TEMPLATEFOLDER . 'footer.inc.phtml';
+?>
